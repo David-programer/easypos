@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <CIcon icon={icon.cilContrast} className="App-logo"  />
+        {/* <CIcon icon={icon.cilContrast} className="App-logo"  /> */}
         <p className='text-red-600'>
           EasyPos
         </p>
